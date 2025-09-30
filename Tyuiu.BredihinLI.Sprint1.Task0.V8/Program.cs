@@ -13,7 +13,7 @@ namespace Tyuiu.BredihinLI.Sprint1.Task0.V8
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #1 | Выполнил: Бредихин Л. И. | ИБКСб-25-1";
+            Console.Title = "Спринт #1 | Выполнил: Бредиxин Л. И. | ИБКСб-25-1";
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
